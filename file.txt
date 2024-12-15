@@ -1,2 +1,2 @@
 Line 1: Initial content
-Line 2: This line will be changed
+Line 2: This is the change in the feature branch
